@@ -1,5 +1,5 @@
 # HILARA_CALLE_CRISTIAN_RAMIRO_segundaEvaluacionAutomatas
-## ⚙️ Requisitos del sistema
+### Requisitos del sistema
 
 | Requisito | Versión recomendada | Descripción |
 |------------|--------------------|--------------|
