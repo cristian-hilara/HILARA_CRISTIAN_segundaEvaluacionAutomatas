@@ -87,7 +87,5 @@ Este proyecto implementa un autómata celular bidimensional basado en el famoso 
 - Python 3.x
 - Tkinter (incluido en la mayoría de distribuciones estándar de Python)
 
----
-
-## Ejemplo rápido para ejecutar (sin instalación adicional)
+## Referencia IA Y el youtube como ShermanSystems
 
